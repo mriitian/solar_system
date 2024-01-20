@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+  <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+  <script src="https://rawgit.com/mayognaise/aframe-gif-shader/master/dist/aframe-gif-shader.min.js"></script> 
+  <body>
+    <a-scene embedded arjs>
+      <a-marker type='pattern' url='anm.png'>
+         <a-entity
+            position="0 2 0"
+            scale="2 2 2"
+            gltf-model="anm.gltf"
+            ></a-entity>
+      </a-marker>
+      <a-marker type='pattern' url='earth.png'>
+        <a-entity
+            position="0 2 0"
+            scale="2 2 2"
+            gltf-model="earth.gltf"
+            ></a-entity>
+      </a-marker>
+      <a-marker type='pattern' url='ems.png'>
+        <a-entity
+            position="0 2 0"
+            scale="2 2 2"
+            gltf-model="ems.gltf"
+            ></a-entity>
+      </a-marker>
+      <a-marker type='pattern' url='jupiter.png'>
+         <a-entity
+            position="0 2 0"
+            scale="2 2 2"
+            gltf-model="jup.gltf"
+            ></a-entity>
+      </a-marker>
+      <a-marker type='pattern' url='mars.png'>
+         <a-entity
+            position="0 2 0"
+            scale="2 2 2"
+            gltf-model="mars.gltf"
+            ></a-entity>
+      </a-marker>
+      <a-marker type='pattern' url='nebula.png'>
+         <a-entity
+            position="0 2 0"
+            scale="2 2 2"
+            gltf-model="neb.gltf"
+            ></a-entity>
+      </a-marker>
+      <a-marker type='pattern' url='neptune.png'>
+        <a-entity
+           position="0 2 0"
+           scale="2 2 2"
+           gltf-model="nep.gltf"
+           ></a-entity>
+     </a-marker>
+     <a-marker type='pattern' url='saturn.png'>
+      <a-entity
+         position="0 2 0"
+         scale="2 2 2"
+         gltf-model="sat.gltf"
+         ></a-entity>
+      </a-marker>
+      <a-marker type='pattern' url='star.png'>
+        <a-entity
+          position="0 2 0"
+          scale="2 2 2"
+          gltf-model="sc.gltf"
+          ></a-entity>
+      </a-marker>
+      <a-marker type='pattern' url='sun.png'>
+        <a-entity
+          position="0 2 0"
+          scale="2 2 2"
+          gltf-model="sun.gltf"
+          ></a-entity>
+      </a-marker>
+      <a-marker type='pattern' url='uranus.png'>
+        <a-entity
+          position="0 2 0"
+          scale="2 2 2"
+          gltf-model="uranus.gltf"
+          ></a-entity>
+      </a-marker>
+      <a-marker type='pattern' url='venus.png'>
+        <a-entity
+          position="0 2 0"
+          scale="2 2 2"
+          gltf-model="venus.gltf"
+          ></a-entity>
+      </a-marker>
+      <a-entity camera></a-entity>
+    </a-scene>
+  </body>
+</html>

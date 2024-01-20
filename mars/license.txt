@@ -1,0 +1,11 @@
+Model Information:
+* title:	Planet Mars
+* source:	https://sketchfab.com/3d-models/planet-mars-1a2862763b1c428ba914691248ddb8fa
+* author:	Topson_Noble (https://sketchfab.com/Topson_Noble)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Planet Mars" (https://sketchfab.com/3d-models/planet-mars-1a2862763b1c428ba914691248ddb8fa) by Topson_Noble (https://sketchfab.com/Topson_Noble) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

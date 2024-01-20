@@ -1,0 +1,11 @@
+Model Information:
+* title:	planet venus
+* source:	https://sketchfab.com/3d-models/planet-venus-04224556bf5847379f87225bd49fed6b
+* author:	Topson_Noble (https://sketchfab.com/Topson_Noble)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "planet venus" (https://sketchfab.com/3d-models/planet-venus-04224556bf5847379f87225bd49fed6b) by Topson_Noble (https://sketchfab.com/Topson_Noble) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
